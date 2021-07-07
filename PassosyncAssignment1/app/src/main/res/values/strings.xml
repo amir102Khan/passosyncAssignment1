@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PassosyncAssignment1</string>
+    <string name="welocme">Welcome</string>
+    <string name="glad">glad to see you!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create account</string>
+    <string name="name">Name</string>
+    <string name="phone">Mobile number</string>
+    <string name="bike">Bike</string>
+
+</resources>
